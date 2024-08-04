@@ -14,9 +14,8 @@ JavaScript CLI Projects for Skill Building is a collection of seven simple comma
 * Shopping Cart System
 * Simple Todo List
 * Contact Manager
-## Badges
 
-Add badges from somewhere like: [shields.io](https://shields.io/)
+## Badges
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
