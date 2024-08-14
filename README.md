@@ -24,5 +24,5 @@ JavaScript CLI Projects for Skill Building is a collection of seven simple comma
 
 ## Feedback
 
-If you have any feedback, please reach out to us at nishantbca8@gmail.com
+If you have any feedback, please reach out to us at nishantonsocialmedia@gmail.com
 
