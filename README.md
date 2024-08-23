@@ -8,7 +8,6 @@ JavaScript CLI Projects for Skill Building is a collection of seven simple comma
 
 ## Table of contents
 * Simple Calculator
-* Basic Calendar
 * Quiz Game
 * Library Management System
 * Shopping Cart System
