@@ -1,7 +1,7 @@
 
 # JavaScript CLI Projects for Skill Building
 
-JavaScript CLI Projects for Skill Building is a collection of seven simple command-line interface (CLI) tools designed to enhance and apply foundational JavaScript skills. Each project focuses on core concepts such as functions, loops, and input/output handling, arrays, strings, and objects providing practical experience in creating interactive CLI applications.This repository serves as a hands-on resource for reinforcing JavaScript fundamentals and developing effective coding practices through real-world examples.
+JavaScript CLI Projects for Skill Building is a collection of six simple command-line interface (CLI) tools designed to enhance and apply foundational JavaScript skills. Each project focuses on core concepts such as functions, loops, and input/output handling, arrays, strings, and objects providing practical experience in creating interactive CLI applications.This repository serves as a hands-on resource for reinforcing JavaScript fundamentals and developing effective coding practices through real-world examples.
 
 
 
